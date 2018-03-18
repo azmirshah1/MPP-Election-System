@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_result" value="name:pengundiID;datatype:int,name:pNoPendaftaran;datatype:string,name:pNamaPenuh;datatype:string,name:pKadPengenalan;datatype:string,name:jabatan;datatype:string,name:program;datatype:string,name:tarikhUndi;datatype:datetime,name:selesaiUndi;datatype:int" />
+	<infoitem key="UD_kerusi" value="name:kerusiID;datatype:int,name:namaKerusi;datatype:string,name:jumlahCalon;datatype:int" />
+	<infoitem key="UD_pengundi" value="name:pengundiID;datatype:int,name:pNoPendaftaran;datatype:string,name:pNamaPenuh;datatype:string,name:pKadPengenalan;datatype:string,name:jabatan;datatype:string,name:program;datatype:string,name:tarikhUndi;datatype:datetime,name:selesaiUndi;datatype:int" />
+</info>

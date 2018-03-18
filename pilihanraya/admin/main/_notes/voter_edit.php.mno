@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_edit_pengundi" value="name:pengundiID;datatype:int,name:pNamaPenuh;datatype:string,name:pNoPendaftaran;datatype:string,name:pKadPengenalan;datatype:string,name:jabatan;datatype:string,name:program;datatype:string,name:tarikhUndi;datatype:datetime,name:selesaiUndi;datatype:int" />
+</info>
